@@ -1,5 +1,6 @@
 # salary prediction model Forest
 Machine Learning By Abdullah Mirza
+![Salary Prediction Model](https://raw.githubusercontent.com/codebytemirza/salary-prediction-model-Forest/main/Acuracy.png)
 
 **## Salary Prediction Model**
 
